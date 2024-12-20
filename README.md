@@ -1,2 +1,6 @@
 ## Hi 👋
 I am a certified Adobe Commerce Frontend Developer Expert with 4 years of experience, delivering scalable, performance-driven front-end solutions across complex projects. I am passionate about enhancing web accessibility, user experience, and digital impact. My commitment lies in delivering high-quality, timely results while leveraging innovative strategies to create seamless and efficient online interactions
+
+<a href="https://www.credly.com/badges/fda9d120-a86d-45e1-ab7d-a5ca54b69b0d/" rel="nofollow">
+  <img src="" width="60" height="60" />
+</a>
